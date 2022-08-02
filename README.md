@@ -1,7 +1,7 @@
 # Desafio de projeto git/github
 Repositório do desafio de projeto sobre git/github
 
-###testando mais uma vez
+### testando mais uma vez
 
 
 ## Link uteis
@@ -9,6 +9,6 @@ Repositório do desafio de projeto sobre git/github
 
 
 
-** tentando negrito **
+**tentando negrito**
  
 
